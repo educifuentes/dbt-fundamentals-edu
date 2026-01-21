@@ -1,0 +1,9 @@
+sources:
+  - name: jaffle_shop
+    database: raw
+    schema: jaffle_shop # same as source name by default
+    tables:
+      - name: customers
+      - name: orders
+      - name: payments
+      - name: products
