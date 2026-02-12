@@ -5,6 +5,11 @@ Welcome to your new dbt project!
 Try running the following commands:
 - dbt build
 
+Progress Log
+
+- 2026-01-20 - dbt fundamentals course
+- 2026-02-12 - [Semantic Models | dbt Learn](https://learn.getdbt.com/learn/course/semantic-layer/semantic-models/semantic-models?page=4)
+
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
